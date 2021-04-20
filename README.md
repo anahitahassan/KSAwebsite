@@ -1,6 +1,6 @@
 # Aloha Apparel Landing Page
 
-This is a website advertising the Spring 2016 Collection of the Aloha Apparel Company
+This is a standard e-commerce website advertising a company called KSA Photography. (This is a demo for a project in my Econ class.)
 
 ### Synopsis
 
@@ -15,11 +15,3 @@ Any modern browser is capable of loading this site.
 * jQuery is responsible for the smooth scrolling feature.
 * Flickity is the plugin that creates the moving carousel of images in the featured products section.
 
-## Authors
-
-Ilya Meerovich (https://github.com/Ilya-Meer)
-
-## Acknowledgments
-
-* Thank you to user Joseph Silber who wrote the smooth scrolling jQuery code.
-* Thank you to the instructors at RED Academy for a challenging, engaging project.
